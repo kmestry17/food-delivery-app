@@ -1,0 +1,26 @@
+Commands
+-----------------------------------------------------
+
+npm create vite@latest
+
+Explanation:
+The command npm create vite@latest lets you quickly set up a new project using Vite, a popular build tool for modern web development.
+
+
+npm install
+
+Explanation:
+npm install downloads dependencies listed in your project's package.json file.
+
+
+npm install react-router-dom
+
+Explanation:
+npm install react-router-dom installs the react-router-dom package, which provides components for implementing navigation and routing in your React web application.
+
+
+npm run dev
+
+Explanation:
+npm run dev is a command typically used in web development projects to start a development server.
+

@@ -6,8 +6,6 @@ import FoodItem from "../FoodItem/FoodItem";
 const FoodDisplay = ({ category }) => {
   const { food_list } = useContext(StoredContext);
 
-  console.log(typeof food_list); // For debugging purposes
-
   return (
     <div className="food-display" id="food-display">
       <h2>Top dishes near you</h2>
@@ -16,7 +14,7 @@ const FoodDisplay = ({ category }) => {
           food_list.map((item, index) => (
             <FoodItem
               key={index}
-              id={item.id}
+              id={item._id}
               name={item.name}
               description={item.description}
               price={item.price}

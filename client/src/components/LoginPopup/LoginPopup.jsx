@@ -22,7 +22,7 @@ const LoginPopup = ({ setShowLogin }) => {
           ) : (
             <input type="text" placeholder="Your name" required />
           )}
-          <input type="email" placeholder="Your email" required />
+          <input type="email" placeholder="Your email/phone number" required />
           <input type="password" placeholder="Your password" required />
         </div>
         <button>{currState === "Sign Up" ? "Create account" : "Login"}</button>

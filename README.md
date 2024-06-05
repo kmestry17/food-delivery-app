@@ -16,7 +16,26 @@ A fully functional food delivery application (Tomato) built with React.js to sho
 
 ## Screenshots
 
+### Home Page
 ![](docs/images/SS_01.png)
+
+### Explore Menu Page
+![](docs/images/SS_02.png)
+
+### Top Dishes Page
+![](docs/images/SS_03.png)
+
+### Footer Page
+![](docs/images/SS_04.png)
+
+### Add to Cart Page
+![](docs/images/SS_05.png)
+
+### Cart Page
+![](docs/images/SS_06.png)
+
+### Place Order Page
+![](docs/images/SS_07.png)
 
 ## Installation:
 Clone this repository:
